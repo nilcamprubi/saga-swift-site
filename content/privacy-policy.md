@@ -1,18 +1,29 @@
 ---
-tags: privacy, policy
-summary: We don't collect or share your data.
-date: 2026-06-05
+title: Privacy Policy
 ---
-# Privacy Policy
 
-This is your first article. Edit this file or create new markdown files in the `content/articles` folder.
+**Last updated: June 2026**
 
-## Getting Started
+Solaced is designed with your privacy in mind.
 
-Saga uses a **Reader → Processor → Writer** pipeline:
+## What we collect
 
-1. **Readers** parse your content files (like this Markdown file) into typed items
-2. **Processors** can transform items with custom logic
-3. **Writers** generate the output HTML files
+Solaced does not collect, store, or share your personal data on external servers. The thoughts you write or speak into the app stay on your device and are not uploaded anywhere.
 
-Happy writing!
+We may collect anonymous, aggregate usage data (such as which features are used most often) to improve the app. This data cannot be used to identify you.
+
+## Your thought entries
+
+Anything you write or say in Solaced is private. It is not sent to our servers, not read by us, and not shared with any third party. Your entries exist only on your device.
+
+## Third-party services
+
+Solaced is distributed through Apple's TestFlight for beta testing. Apple's own privacy policy governs data collected through that service.
+
+## Changes to this policy
+
+If we make significant changes to how we handle your data, we'll update this page and note the date at the top.
+
+## Contact
+
+Questions about privacy? Reach us at [nilcamprubi@icloud.com](mailto:nilcamprubi@icloud.com).
